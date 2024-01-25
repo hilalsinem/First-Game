@@ -1,0 +1,1073 @@
+fileFormatVersion: 2
+guid: 9a2aef9fdd22ab74487c677cf0e152ad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 280
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8db3103a3efce40ab69476fe87553a
+      internalID: 353295529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 745
+        width: 279
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13251040118a6c47ad132f2a5038419
+      internalID: -1341836018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 735
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9865e53d42d61f546a406732ae9cccc1
+      internalID: 1368905365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 755
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c2588b97c67ea42839615b05ab60c4
+      internalID: -1995928199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 280
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e486909711cb46a7b0f6d17eac0b2
+      internalID: 1375712757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 640
+        width: 279
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8577f5247b10a14294108d274e6ec2f
+      internalID: -908238104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 630
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bd318d5c7367048a0761a23bac3276
+      internalID: 540440028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 630
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ddfd0c8bdd19c41a82b0d3656bdd90
+      internalID: 1540724169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 280
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a78f92bb7389f2429c764152e1b2b0f
+      internalID: -1607006658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 535
+        width: 281
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677ab4413070ff4e907f97accf23518
+      internalID: -329933126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 525
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f929f1277c71a43bb2e0c2ed9b3de6
+      internalID: 990599783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 419
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9879f9f2f99ad4ca3ba03ef00aad21
+      internalID: -353716812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 280
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b417b46d3c1e4a48850a3636f78b6db
+      internalID: 1260101653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 430
+        width: 280
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4213b77e560a46f4dbbd95d9e6a60436
+      internalID: -2134312786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 420
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8636119c2d6ed409517554873b3068
+      internalID: -1136650011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 420
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8eaa04ccacaf64181896c78a9d94c2
+      internalID: -1625804660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 280
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016b34f0af7ded54194911806150ab35
+      internalID: -2115034495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 325
+        width: 280
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef8943d417c284e90b2170243cd5c2
+      internalID: 1216470212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 314
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067efd7aca38ac7419e2a1c0619cab86
+      internalID: -250961025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 315
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8474e5125c4f69e4fbf59830c0af8a97
+      internalID: -1046425550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 280
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09f3b86f5ff754e8d13e6506525afb
+      internalID: -319166150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 220
+        width: 279
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6d22a0c1fb2574c8ff08ad38a39a68
+      internalID: 1141144849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key4
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 265
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16806908b5cdecc469534b6fe59bdc8b
+      internalID: 1971171158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 420
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b3ad8248107f746844a529f8435b81
+      internalID: 1604294856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 280
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91936914f50ee4946a35810bf9df33b6
+      internalID: 28906619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 115
+        width: 279
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efeedda7fa00754890dded3f882734e
+      internalID: -1077307278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_26
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 104
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce60b49e276ac4cba483a53164712a
+      internalID: 1024861315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 280
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f612307db28c41b31d672d276dc12
+      internalID: -1872478717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 10
+        width: 280
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d2b62df8628748ac534ea6147ab0e
+      internalID: 2108976073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 96
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c3bb7dfdbb6b64a905df54bd197f0a
+      internalID: -990828807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 735
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa5fbd374953524fbaf705d1641a1d9
+      internalID: 1903478045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 630
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a8b184fea81734cbff331654323518
+      internalID: 117359644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_32
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 525
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa87e6fe973b2f44b8cbf51f380581c
+      internalID: -540747858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 420
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59849289fdc0794b8c3b779cc6cb96f
+      internalID: -521159805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_34
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 315
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115bf39747511ae4aba9ef2992a5b0cc
+      internalID: -575733302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_35
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 210
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a40bc3ae5d3bf489af1caf4d5324c0
+      internalID: -1498776044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_36
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 105
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200f09910b71f1e47ae463dd60a8b4df
+      internalID: -1918922041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8085eaed062274f88144f5736e97c6
+      internalID: 1229597565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_38
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 315
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6ef02f291b7c94c98631ae92dfbb47
+      internalID: -1095904598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platformerBricks_tilesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 650
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2a689f18be8934fb01083d8ed22f26
+      internalID: 415250564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key1
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 265
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4832312, y: 0.49999934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3a441db5073174a845ec26342cd3f7
+      internalID: -1320874987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 265
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3809018849cd2d04da864793b0b06718
+      internalID: 1612208889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key3
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 266
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1920e88bd2d364b9c9451b0d516e9a
+      internalID: 1787127851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      key1: -1320874987
+      key2: 1612208889
+      key3: 1787127851
+      key4: 1971171158
+      platformerBricks_tilesheet_0: 353295529
+      platformerBricks_tilesheet_1: -1341836018
+      platformerBricks_tilesheet_10: 990599783
+      platformerBricks_tilesheet_11: -353716812
+      platformerBricks_tilesheet_12: 1260101653
+      platformerBricks_tilesheet_13: -2134312786
+      platformerBricks_tilesheet_14: -1136650011
+      platformerBricks_tilesheet_15: -1625804660
+      platformerBricks_tilesheet_16: -2115034495
+      platformerBricks_tilesheet_17: 1216470212
+      platformerBricks_tilesheet_18: -250961025
+      platformerBricks_tilesheet_19: -1046425550
+      platformerBricks_tilesheet_2: 1368905365
+      platformerBricks_tilesheet_20: -319166150
+      platformerBricks_tilesheet_21: 1141144849
+      platformerBricks_tilesheet_23: 1604294856
+      platformerBricks_tilesheet_24: 28906619
+      platformerBricks_tilesheet_25: -1077307278
+      platformerBricks_tilesheet_26: 1024861315
+      platformerBricks_tilesheet_27: -1872478717
+      platformerBricks_tilesheet_28: 2108976073
+      platformerBricks_tilesheet_29: -990828807
+      platformerBricks_tilesheet_3: -1995928199
+      platformerBricks_tilesheet_30: 1903478045
+      platformerBricks_tilesheet_31: 117359644
+      platformerBricks_tilesheet_32: -540747858
+      platformerBricks_tilesheet_33: -521159805
+      platformerBricks_tilesheet_34: -575733302
+      platformerBricks_tilesheet_35: -1498776044
+      platformerBricks_tilesheet_36: -1918922041
+      platformerBricks_tilesheet_37: 1229597565
+      platformerBricks_tilesheet_38: -1095904598
+      platformerBricks_tilesheet_39: 415250564
+      platformerBricks_tilesheet_4: 1375712757
+      platformerBricks_tilesheet_5: -908238104
+      platformerBricks_tilesheet_6: 540440028
+      platformerBricks_tilesheet_7: 1540724169
+      platformerBricks_tilesheet_8: -1607006658
+      platformerBricks_tilesheet_9: -329933126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
